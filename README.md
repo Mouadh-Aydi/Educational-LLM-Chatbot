@@ -20,3 +20,9 @@ It serves as an interactive study assistant for students and job seekers, answer
 - **Frontend:** Streamlit
 
 ## 📂 Project Structure
+
+├── main.py # The main application script
+├── data.csv # The knowledge base (ML & DL Interview Questions)
+├── requirements.txt # Python dependencies
+├── .env # API keys (Not included in repo)
+└── README.md # Documentation
